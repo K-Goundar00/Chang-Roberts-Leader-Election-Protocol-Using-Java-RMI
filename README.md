@@ -8,8 +8,6 @@ This project implements a **distributed leader election protocol** using **Java 
 
 To implement a leader election protocol that fulfills the following requirements:
 
-### Exercise 1: Communication and Electing a Leader
-
 - **Ring Topology**: Nodes must be connected in a unidirectional ring structure.
 - **Restricted Communication**: Nodes must not directly invoke methods on arbitrary nodes. All communication must be limited to adjacent nodes, maintaining ring integrity.
 - **Group-Dependent Design**: The implementation approach is open-ended, allowing teams to choose their design as long as the protocol requirements are met.
