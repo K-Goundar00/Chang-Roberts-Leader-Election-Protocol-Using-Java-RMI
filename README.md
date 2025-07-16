@@ -48,7 +48,7 @@ To implement a leader election protocol that fulfills the following requirements
 3. Right click on RingNodeClient to run the RingNodeClient. Enter a unique a ID for the client. Repeat this step to create multiple clients.
 4. On one client type "start". This will begin the election using Chang-Roberts protocol.
 
-##Requirements
+## Requirements
 
-Java 8 or later
-Apache Netbeans
+- Java 8 or later
+- Apache Netbeans
